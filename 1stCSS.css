@@ -1,0 +1,26 @@
+body { 
+    background-color:rgb(224, 171, 224);
+}
+h1 {
+    color: rgba(100, 148, 237, 0.911);
+    text-align: center;
+}
+h2 {
+    color: rgba(118, 159, 236, 0.897);
+    text-align: center;
+
+}
+h3 {
+    color: rgb(189, 208, 243);
+    text-align: center;
+
+}
+h4 {
+    color: rgba(210, 221, 241, 0.918);
+    text-align: center;
+
+}
+h5 {
+    color: rgb(240, 69, 1);
+    text-align: center;
+}
