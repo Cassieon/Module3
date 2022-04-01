@@ -1,0 +1,104 @@
+
+/* background Static */
+body {
+    background-image: url(https://i.imgur.com/U5Ccc0f.gif?noredirect);
+    height: 100%;
+    width: 100%;
+}
+
+/* Nick Logo */
+.top_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+
+}
+
+#logo {
+    border-style: double;
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    padding: 20px;
+
+}
+
+/* Rugrats and Ahh real monsters */
+.mid_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: x-large;
+    color: rgb(234, 234, 236);
+    font-weight: bolder;
+    text-shadow: 2px 2px rgb(31, 30, 30);
+}
+
+/* Rugrats gif */
+#L_pic img {
+    object-fit: cover;
+    height: 300px;
+    width: 400px;
+    border-style: outset;
+    border-color: rgb(41, 39, 39);
+    border-width: 5px;
+    border-radius: 15px;
+    margin: 10px; 
+}
+
+/* Ah real monsters gif */
+#R_pic img {
+    object-fit: cover;
+    height: 300px;
+    width: 400px;
+    border-style: outset;
+    border-color: rgb(41, 39, 39);
+    border-width: 5px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+/* Ren & Stimpy and All that */
+.btm_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: x-large;
+    color: rgb(234, 234, 236);
+    font-weight: bolder;
+    text-shadow: 2px 2px rgb(31, 30, 30);
+}
+
+/* Ren & Stimpy */
+#L_pic2 img { 
+    object-fit: cover;
+    height: 300px;
+    width: 400px;
+    border-style: outset;
+    border-color: rgb(41, 39, 39);
+    border-width: 5px;
+    border-radius: 15px;
+    margin: 10px;
+
+}
+
+/* All that */
+#R_pic2 img {
+    object-fit: cover;
+    height: 300px;
+    width: 400px;
+    border-style: outset;
+    border-color: rgb(41, 39, 39);
+    border-width: 5px;
+    border-radius: 15px;
+    margin: 10px;
+}
