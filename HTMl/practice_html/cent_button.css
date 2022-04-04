@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+    background-color: rgb(255, 238, 232);
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    background-color: rgb(245, 196, 178);
+    height: 500px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    background-color: coral;
+    padding: 14px 40px;
+    border-radius: 12px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: skyblue;
+    
+}

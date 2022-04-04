@@ -1,0 +1,116 @@
+@media screen and (max-width: 460px) {
+    body {
+        background-color: black;
+    }
+    #pic2 { 
+        margin: 100%;
+    }
+
+    #header {
+        background-color: rgb(248, 206, 202);
+        height: 50px;
+        width: 50%;
+        margin: 0 auto;
+    
+
+    }
+    .photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+ 
+    }
+    #footer {
+        background-color: rgb(207, 232, 253);
+        height: 100px;
+        margin: 20px;
+    }
+}
+@media screen and (max-width: 780px) {
+    body {
+        background-color: rgb(216, 167, 6);
+    }
+    #pic2 {
+        margin: 100%;
+    }
+
+    #header {
+        background-color: rgb(248, 206, 202);
+        height: 60px;
+        width: 75%;
+        margin: 0 auto;
+    
+
+    }
+    .photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+ 
+    }
+    #footer {
+        background-color: rgb(207, 232, 253);
+        height: 100px;
+        margin: 20px;
+    }
+    #pic2 {
+        margin: 30px;
+        border-radius: 50%;
+    }
+
+    #pic3 {
+        margin: 30px;
+    }
+
+    #footer {
+        background-color: rgb(207, 232, 253);
+        height: 100px;
+        margin: 20px;
+    }
+}
+
+@media screen and (max-width: 2000px) {
+    body {
+        background-color: rgb(216, 167, 6);
+    }
+    #pic2 {
+        margin: 50%;
+    }
+
+    #header {
+        background-color: rgb(248, 206, 202);
+        height: 60px;
+        width: 75%;
+        margin: 0 auto;
+    
+
+    }
+    .photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+ 
+    }
+    #footer {
+        background-color: rgb(207, 232, 253);
+        height: 100px;
+        margin: 20px;
+    }
+    #pic2 {
+        margin: 30px;
+        border-radius: 50%;
+    }
+
+    #pic3 {
+        margin: 30px;
+    }
+
+    #footer {
+        background-color: rgb(207, 232, 253);
+        height: 100px;
+        margin: 20px;
+    }
+}
